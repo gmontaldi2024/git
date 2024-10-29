@@ -1,11 +1,5 @@
-EMPLEADOS
-
-Nombre y Apellido: Gaston Montaldi , ID: 203456 , Salario: 1.500 US$
-
-Nombre y Apellido: Carlos Esquivel , ID: 194572 , Salario: 1.800 US$
-
-Nombre y Apellido: Lucas Rochet , ID: 207648 , Salario: 1.500 US$
-
-Nombre y Apellido: Martin Lopez , ID: 218990 , Salario: 1.200 US$
-
-Nombre y Apellido: Ezequiel Giron , ID: 183409 , Salario: 2.000 US$
+nombre: Gaston Montaldi , id: 203456 , salario: 1.500 US$
+nombre: Carlos Esquivel , id: 194572 , salario: 1.800 US$
+nombre: Lucas Rochet , id: 207648 , salario: 1.500 US$
+nombre: Martin Lopez , id: 218990 , salario: 1.200 US$
+nombre: Ezequiel Giron , id: 183409 , salario: 2.000 US$
